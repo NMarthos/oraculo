@@ -5,7 +5,7 @@ from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
 
 
-# OPENAI_API_KEY = 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
+
 
 TIPOS_ARQUIVOS_VALIDOS = [
     'Site', 'Youtube', 'Pdf', 'Csv', 'Txt'
